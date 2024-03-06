@@ -16,4 +16,9 @@ body{
     text-align: center;
 }ul li{
     margin-left: 50px;
+}img{
+    margin-right: 80%;
+    width: 120px;
+    height: 150px;
+    border-radius: 100px;
 }
