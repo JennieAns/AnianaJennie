@@ -28,4 +28,6 @@ body{
 }audio{
     width: 200px;
     height: 50px;
+}#datetime{
+    text-align: center;
 }
